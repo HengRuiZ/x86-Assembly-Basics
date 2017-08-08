@@ -1,1 +1,3 @@
-# x86-Assembly-Basics
+微型计算机及其原理上机实验代码，实验说明在indication文件夹里。
+
+汇编代码由Intel x86指令组成，运行于16位机上。
